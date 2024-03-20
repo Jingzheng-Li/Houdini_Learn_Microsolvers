@@ -27,6 +27,28 @@ static void distanceUpdateXPBD(
     
 ) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     // distance will get the two points from pts and calculate the distance between them
     int pt0 = pts[ptidx];
     int pt1 = pts[ptidx + 1];
